@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "heavens_addons:overworld_holy_stone",
+  "biomes": "#minecraft:is_overworld",
+  "step": "underground_ores"
+}

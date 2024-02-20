@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "heavens_addons:holy_stone"
+    }
+  ],
+  "result": {
+    "item": "heavens_addons:holy_dust"
+  }
+}

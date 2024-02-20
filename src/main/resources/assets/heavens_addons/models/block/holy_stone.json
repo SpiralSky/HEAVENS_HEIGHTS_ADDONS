@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "heavens_addons:block/holy_stone"
+  }
+}

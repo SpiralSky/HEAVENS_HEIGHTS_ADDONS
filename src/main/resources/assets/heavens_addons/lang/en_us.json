@@ -1,4 +1,10 @@
 {
   "itemGroup.heavens_addons": "Heavens Addons",
-  "item.heavens_addons.holy_grail_1": "Holy Grail of Eternity"
+
+  "item.heavens_addons.holy_grail_1": "Holy Grail of Eternity",
+  "item.heavens_addons.holy_dust": "Holy Stone Dust",
+  "item.heavens_addons.holy_steel_ingot": "Holy Steel Ingot",
+  "item.heavens_addons.holy_steel_sword": "Holy Steel Sword",
+
+  "block.heavens_addons.holy_stone": "Holy Stone"
 }
